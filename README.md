@@ -6,3 +6,4 @@
 - JS (JavaScript)
 - YAML (YAML Ain't Markup Language)
 - HTML (HyperText Markup Language)
+- Lua
