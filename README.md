@@ -1,14 +1,14 @@
 ### Hey there!
 
-I'm [Adam](https://github.com/sacrosanct-uary), a first-year IT student from England interested in software design and development; I enjoy learning about different languages, their uses, and how different kinds of software work.
+I'm [Adam](https://github.com/sacrosanct-uary), an amateur developer from England interested in designing, developing and understanding software; I spend my free time working on some personal projects.
 
-My main tech stack is Lua, C++, Java, and whatever else I can learn. I use Visual Studio Code as my editor, and Obsidian for taking notes and making documentation.
+My main tech stack is Lua, Javascript, and whatever else I can learn. I use Zed as my editor because most editors incorporate AI features, and Obsidian for taking notes and making documentation.
 
-I've got a few pinned projects, but I'm currently working on a plugin for Obsidian.
+I've got a few pinned projects, but I'm currently working on an application with Discord's REST API.
 
 ---
 
 >[!NOTE]
->- I started learning Lua after deciding to try make a game on Roblox.
+>- I started learning about the Lua language in **2019** when I decided to make a game with Roblox's Engine API
 >- I'm a fan of alternative metal bands such as Sleep Token.
 >- My username's a combination of the words 'sacrosanct' and 'sanctuary'.
